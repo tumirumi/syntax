@@ -119,8 +119,5 @@ oper
 
 
 --- TO RUN -------------------
--- i DoctorSpa.gf - LOAD FILE
 -- gr -number=50 | l
--- i -retain DoctorSpa.gf  -- RELOAD
-
 
