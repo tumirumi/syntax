@@ -6,6 +6,7 @@ concrete DoctorSpa of Doctor =
   in {
 
 -- application using standard RGL
+-- https://github.com/GrammaticalFramework/gf-rgl/blob/master/README.md
 
 lincat
   Phrase = Utt ;
@@ -118,6 +119,7 @@ oper
 
 
 
---- TO RUN -------------------
+--- TO RUN -------------------------------------------
 -- gr -number=50 | l
-
+-- CHECK MORPHOLOGY&SYNTAX FOR RGL -------------------
+--http://www.grammaticalframework.org/lib/doc/synopsis/#toc120
